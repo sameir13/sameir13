@@ -17,6 +17,20 @@
 
 ###
 
+<!-- "Code typing" terminal effect — looks like a real editor typing out code, line by line -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&repeat=true&width=650&height=120&lines=const+sameer+%3D+%7B;++role%3A+%27Full+Stack+Developer%27%2C;++stack%3A+%5B%27JS%27%2C+%27TS%27%2C+%27React%27%2C+%27Next.js%27%5D%2C;++currentlyLearning%3A+%27always+something+new%27%2C;++bugs%3A+%27features+in+disguise%27%3B;%7D%3B" alt="typing code animation" />
+</div>
+
+###
+
+<!-- Coding GIF -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500" alt="coding animation"/>
+</div>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sameir13&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameir13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
