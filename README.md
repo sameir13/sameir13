@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README — Anime Neon Edition
+  GitHub Profile README — Anime Neon + Dev Terminal Edition
   Username: sameir13
 -->
 
@@ -11,19 +11,55 @@
   <!-- Anime-style name plate -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=14,12,6&height=200&section=header&text=Sameer%20Adil&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=40&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20with%20intention%20%E2%9C%A8&descAlignY=62&descSize=15" width="100%"/>
 
-  <!-- Anime typing hero — name + vibe -->
+  <!-- Anime typing hero -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%E3%80%8C+Sameer+Adil+%E3%80%8D;Full+Stack+Developer+%E2%9C%A8" alt="Anime name typing"/>
   </a>
 
-  <!-- Secondary typing — roles / mood -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=700&color=A78BFA&center=true&vCenter=true&width=680&lines=Crafting+clean%2C+thoughtful+code+%F0%9F%8C%B8;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;Always+learning%2C+always+shipping+%F0%9F%9A%80;Welcome+to+my+GitHub+profile+%E2%9C%A6" alt="Typing SVG"/>
 
 </div>
 
 <br/>
 
-<!-- Neon “code editor” typing block -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  NEW: LIVE DEV TERMINAL / SYSTEM LOGS SECTION            -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+### Live Dev Terminal
+
+<div align="center">
+
+  <!-- Terminal title bar -->
+  <img src="https://img.shields.io/badge/●-ff5f57?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/●-febc2e?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/●-28c840?style=flat-square&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/sameer@dev-terminal-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF41&labelColor=0D1117&color=161B22"/>
+
+  <br/><br/>
+
+  <!-- Boot sequence — system logs typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=00FF41&background=0D1117FF&center=true&vCenter=true&repeat=true&width=750&height=220&lines=%24+system+boot+--dev+mode;++%5BBOOT%5D+initializing+environment...;++%5BOK%5D+node+%7C+npm+%7C+git+%7C+docker;++%5BLOAD%5D+react+%E2%80%A2+next.js+%E2%80%A2+typescript+%E2%80%A2+nestjs;++%5BDB%5D+postgres+%E2%86%94+redis+%E2%86%94+prisma+connected;++%5BSYNC%5D+github.com%2Fsameir13+%E2%9C%93;++%5BSTATUS%5D+sameer%40dev+%E2%86%92+online+%26+shipping+%E2%9C%A8" alt="system boot logs"/>
+
+  <br/>
+
+  <!-- Live tail -f stream — second terminal panel -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1200&pause=250&color=58A6FF&background=161B22FF&center=true&vCenter=true&repeat=true&width=750&height=160&lines=%24+tail+-f+%2Fvar%2Flog%2Fdev.log;++%5BINFO%5D+compiling+modules...+done;++%5BBUILD%5D+next.js+app+ready+on+localhost%3A3000;++%5BDEPLOY%5D+pushing+to+production...;++%5BWARN%5D+bug+detected+%E2%86%92+renamed+to+feature+%F0%9F%98%84;++%5BOK%5D+PR+merged+%7C+CI+passed+%7C+deployed+%E2%9C%A8" alt="live dev logs"/>
+
+  <br/>
+
+  <!-- Animated terminal GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-7380dae3-ea69-4c7a-8775-7a935e109534.gif" width="600" alt="terminal animation"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<br/>
+
+<!-- Neon code editor typing block -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2000&pause=500&color=F472B6&background=0D1117FF&center=true&vCenter=true&repeat=true&width=680&height=140&lines=%2F%2F+%E2%9C%A8+profile.ts;%3E+const+sameer+%3D+%7B;++role%3A+%27Full+Stack+Developer%27%2C;++stack%3A+%5B%27JS%27%2C+%27TS%27%2C+%27React%27%2C+%27Next.js%27%5D%2C;++vibe%3A+%27anime+nights+%2B+clean+PRs%27%2C;++bugs%3A+%27features+in+disguise+%E2%9C%A8%27%3B;%7D%3B" alt="typing code animation"/>
 </div>
@@ -34,7 +70,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7edd-4706-9c03-e44b25c8b1b5.gif" width="420" alt="anime coding vibe"/>
 </div>
 
-<!-- Animated neon divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
 
 ###
@@ -67,7 +102,6 @@
 
 <br/>
 
-<!-- Snake (needs GitHub Action → output branch) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/sameir13/sameir13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
 </div>
