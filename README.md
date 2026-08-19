@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Sameer%20—%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated aesthetic banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,6&height=220&section=header&text=Sameer%20Adil&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%9C%A6%20Crafting%20clean%2C%20thoughtful%20code&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -68,9 +68,38 @@
 
 ### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nextjs,mongodb,nodejs,git,vscode,figma&theme=dark&perline=12" alt="tech stack icons"/>
-</div>
+<!-- Languages -->
+<p align="left"><b>Languages</b></p>
+<img src="https://skillicons.dev/icons?i=js,ts,py,go,java,cs,php,cpp,rust&theme=dark&perline=12" alt="languages"/>
+
+<!-- Frontend -->
+<p align="left"><b>Frontend</b></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,svelte,html,css,tailwind,bootstrap,sass,redux,materialui&theme=dark&perline=13" alt="frontend stack"/>
+
+<!-- Backend -->
+<p align="left"><b>Backend</b></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,spring,laravel,graphql,fastapi&theme=dark&perline=12" alt="backend stack"/>
+
+<!-- Databases -->
+<p align="left"><b>Databases</b></p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase,supabase,prisma,cassandra,mariadb&theme=dark&perline=12" alt="databases"/>
+
+<!-- AI / ML -->
+<p align="left"><b>AI / ML</b></p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,py&theme=dark&perline=12" alt="ai and ml"/>
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+
+<!-- DevOps / Cloud -->
+<p align="left"><b>DevOps / Cloud</b></p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux,git,github&theme=dark&perline=12" alt="devops and cloud"/>
+
+<!-- Tools -->
+<p align="left"><b>Tools</b></p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vim&theme=dark&perline=12" alt="tools"/>
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
