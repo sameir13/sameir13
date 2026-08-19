@@ -4,26 +4,21 @@
 -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--  HERO — Cyberpunk city loop + orange name section           -->
+<!--  HERO — FB cover-size synthwave banner + orange name          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <!-- Cyberpunk neon city loop — video-style background -->
-  <img src="https://media.giphy.com/media/X56gv3AGrwOI3VzWwl/giphy.gif" width="100%" alt="cyberpunk city loop"/>
-
-  <br/>
-
-  <!-- Orange synthwave road loop — second layer -->
-  <img src="https://media.giphy.com/media/deD6sPhPdGbRojquw4/giphy.gif" width="100%" alt="cyberpunk retrowave loop"/>
+  <!-- Cyberpunk synthwave road loop — FB cover size (820 x 312) -->
+  <img src="https://media.giphy.com/media/deD6sPhPdGbRojquw4/giphy.gif" width="820" height="312" alt="cyberpunk retrowave loop"/>
 
   <br/>
 
   <!-- Orange wave transition -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,10,11&height=90&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,10,11&height=90&section=header&text=&fontSize=0" width="820"/>
 
-  <!-- Name plate — orange / amber -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=9,10,11&height=190&section=header&text=Sameer%20Adil&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=42&desc=%F0%9F%94%A5%20Full%20Stack%20Developer%20%E2%80%A2%20Cyberpunk%20Coder%20%F0%9F%94%A5&descAlignY=64&descSize=15" width="100%"/>
+  <!-- Name plate -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=9,10,11&height=190&section=header&text=Sameer%20Adil&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=42&desc=%F0%9F%94%A5%20Full%20Stack%20Developer%20%E2%80%A2%20Cyberpunk%20Coder%20%F0%9F%94%A5&descAlignY=64&descSize=15" width="820"/>
 
   <!-- Name typing -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=FF6B35&center=true&vCenter=true&multiline=true&width=720&height=95&lines=%E3%80%8C+Sameer+Adil+%E3%80%8D;Full+Stack+Developer+%F0%9F%94%A5" alt="name typing"/>
@@ -49,23 +44,15 @@
 
 <div align="center">
 
-  <!-- Matrix rain GIF -->
-  <img src="https://media.giphy.com/media/13HgwGsXF0afGY/giphy.gif" width="100%" alt="matrix rain"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0afGY/giphy.gif" width="820" height="312" alt="matrix rain"/>
 
   <br/>
 
-  <!-- Orange matrix code stream — typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1400&pause=300&color=FF6B35&background=0a0a0aFF&center=true&vCenter=true&repeat=true&width=780&height=240&lines=01001101+01000001+01010100+01010010+01001001+01011000;++01010011+01000001+01001101+01000101+01000101+01010010;++01000001+01000100+01001001+01001100;++%5BMATRIX%5D+decrypting+profile.dat...;++%5BOK%5D+sameer%40cyberpunk+%E2%86%92+ONLINE;++%5BSYS%5D+stack%3A+JS+%7C+TS+%7C+React+%7C+Next.js;++%5BSTATUS%5D+shipping+code+into+the+grid+%F0%9F%94%A5" alt="orange matrix stream"/>
 
   <br/>
 
-  <!-- Binary rain — gold accent -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1000&pause=200&color=FFD700&background=1a0a00FF&center=true&vCenter=true&repeat=true&width=780&height=160&lines=01101110+01101001+01110100;++01101001+01100001+01101100+01101001+01111010;++01100101+01100100;++%5BRAIN%5D+01000101+01010010+01010010+01001111+01010010;++%5BLOAD%5D+features+in+disguise...;++%5BDONE%5D+access+granted+%E2%9C%A8" alt="binary rain"/>
-
-  <br/>
-
-  <!-- Cyberpunk neon loop accent -->
-  <img src="https://media.giphy.com/media/5QVUUXGA9zPhIXrS6T/giphy.gif" width="620" alt="neon cyberpunk loop"/>
 
 </div>
 
@@ -180,8 +167,6 @@
 <!--  TECH STACK                                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" height="170" src="https://media.giphy.com/media/5QVUUXGA9zPhIXrS6T/giphy.gif" alt="cyberpunk neon"/>
-
 ### Tech Stack
 
 <p align="left"><b>Languages</b></p>
@@ -279,5 +264,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,10,11&height=130&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,10,11&height=130&section=footer" width="820"/>
 </div>
