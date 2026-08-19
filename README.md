@@ -55,7 +55,41 @@
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nextjs,mongodb,nodejs,git,vscode,figma&theme=dark" height="45" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nextjs,mongodb,nodejs,git,vscode,figma&theme=dark&perline=12" alt="tech stack icons"/>
+</div>
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
+
+### 🌀 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://github-readme-3d-contrib.vercel.app/api?username=sameir13&theme=dark" width="95%" alt="3D contribution calendar"/>
+</div>
+
+###
+
+### 📈 Deep-Dive Metrics
+
+<!-- lowlighter/metrics — configurable animated dashboard (activity timeline, community stats, etc.) -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/sameir13?template=classic&base=header,activity,community,repositories&config.timezone=Asia%2FKarachi" width="95%" alt="detailed metrics dashboard"/>
+</div>
+
+###
+
+### 💬 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="rotating dev quote"/>
+</div>
+
+###
+
+### ⏱️ Coding Activity (WakaTime)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sameir13&theme=dracula&hide_border=false&layout=compact" height="180" alt="wakatime weekly stats"/>
 </div>
 
 ###
